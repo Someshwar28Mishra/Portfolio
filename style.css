@@ -34,7 +34,7 @@ body {
     height: 100%;
 }
 .logo img {
-    height: 100%; /* Adjust the logo height relative to the navbar height */
+    height: 100px; /* Adjust the logo height relative to the navbar height */
     width: auto; /* Maintain aspect ratio */
     max-height: 50px; /* Optional: Set a maximum height for the logo */
 }
